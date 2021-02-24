@@ -1,6 +1,8 @@
 [submodule "specificGroupAngular"]
 	path = specificGroupAngular
 	url = https://github.com/pennywisexy/specificGroupAngular.git
+	branch = develop
 [submodule "API-for-movies"]
 	path = API-for-movies
 	url = https://github.com/pennywisexy/API-for-movies.git
+	branch = develop
