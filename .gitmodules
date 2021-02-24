@@ -1,0 +1,3 @@
+[submodule "specificGroupAngular"]
+	path = specificGroupAngular
+	url = https://github.com/pennywisexy/specificGroupAngular.git
