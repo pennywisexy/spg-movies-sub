@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "full": "(cd api-for-movies && npm start) & (cd specificGroupAngular && npm start)"
+  }
+}
